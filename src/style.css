@@ -1,0 +1,9 @@
+.submit {
+  background-color: blue;
+  padding: "5px";
+  color: aliceblue;
+  margin-top: auto;
+  margin-left: "12px";
+  border-radius: "5px";
+  border: "1px solid blue";
+}
